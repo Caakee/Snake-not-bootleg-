@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Untitled1.png" type="Texture" id=1]
+
+[node name="Died" type="Node2D"]
+
+[node name="Untitled1" type="Sprite" parent="."]
+position = Vector2( 42, 24 )
+texture = ExtResource( 1 )
